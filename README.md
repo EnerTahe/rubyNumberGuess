@@ -1,2 +1,2 @@
-# rubyNumberGuess
-Number guessing game made with Ruby.
+## Starting ##
+CMD -> ruby nrguess.rb
